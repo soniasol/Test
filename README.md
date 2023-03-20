@@ -7,6 +7,8 @@
 
 ## Licence
 
+CC-BY
+
 ## Citation
 
 Sonia Solfrini, université de geneve, 2023
