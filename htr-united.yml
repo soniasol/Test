@@ -2,17 +2,17 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: Test
 url: https://github.com/soniasol/Test
 authors:
-  - name: Sonia
-    surname: Solfrini
-    roles:
-      - transcriber
+- name: Sonia
+  surname: Solfrini
+  roles:
+  - transcriber
 institutions: []
 description: Test to learn about Github
 language:
-  - fra
+- fra
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: mainly-typed
 time:
   notBefore: '1500'
@@ -21,6 +21,55 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
+volume:
+- metric: characters
+  count: 1216
+- metric: files
+  count: 1
+- metric: lines
+  count: 28
+- metric: regions
+  count: 7
+characters:
+  mode: NFD
+  members:
+  - e
+  - u
+  - t
+  - i
+  - s
+  - a
+  - r
+  - l
+  - n
+  - o
+  - c
+  - d
+  - "\u0303"
+  - m
+  - q
+  - p
+  - ','
+  - .
+  - g
+  - f
+  - '-'
+  - h
+  - "\u204A"
+  - S
+  - ;
+  - y
+  - C
+  - z
+  - b
+  - P
+  - A
+  - x
+  - N
+  - "\u0365"
+  - D
+  - "\uA770"
+  - L
