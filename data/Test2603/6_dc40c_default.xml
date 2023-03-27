@@ -25,16 +25,6 @@
                   WIDTH="927"
                   HEIGHT="1501">
         
-        <TextBlock HPOS="352"
-                   VPOS="1326"
-                   WIDTH="240"
-                   HEIGHT="66"
-                   ID="eSc_textblock_3ba04c38"
-                   TAGREFS="BT888">
-          <Shape><Polygon POINTS="592 1333 589 1392 357 1392 352 1326"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="65"
                    VPOS="105"
                    WIDTH="811"
@@ -42,12 +32,6 @@
                    ID="eSc_textblock_38458b4c"
                    TAGREFS="BT890">
           <Shape><Polygon POINTS="741 115 841 120 876 140 871 193 753 263 612 424 562 445 599 465 796 480 831 569 776 614 861 630 871 665 851 750 866 909 696 940 751 1020 746 1079 766 1119 831 1150 831 1189 771 1239 509 1244 514 1270 572 1290 572 1335 347 1329 354 1270 439 1244 65 1229 70 625 280 584 145 564 155 460 359 439 305 345 220 278 218 248 165 233 158 198 90 178 90 120 115 105"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_db541e84"
@@ -171,17 +155,17 @@
           
           <TextLine ID="eSc_line_f5288c08"
                     TAGREFS="LT319"
-                    BASELINE="152 506 354 510" 
-                    HPOS="151"
-                    VPOS="459"
-                    WIDTH="203"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="152 506 151 514 352 512 354 510 354 485 292 485 287 480 267 462 267 461 266 461 265 461 263 461 203 467 165 459 163 459 152 480"/></Shape>
+                    BASELINE="152 506 295 509" 
+                    HPOS="150"
+                    VPOS="461"
+                    WIDTH="143"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="152 489 151 505 150 514 292 512 293 507 293 475 268 464 267 464 222 461 221 461 220 461 193 475 157 475 152 489"/></Shape>
 	    <String CONTENT="Uerite."
-                    HPOS="151"
-                    VPOS="459"
-                    WIDTH="203"
-                    HEIGHT="55"></String>
+                    HPOS="150"
+                    VPOS="461"
+                    WIDTH="143"
+                    HEIGHT="53"></String>
           </TextLine>
 
           
@@ -222,17 +206,17 @@
           
           <TextLine ID="eSc_line_841bf87a"
                     TAGREFS="LT319"
-                    BASELINE="146 552 349 556" 
-                    HPOS="145"
-                    VPOS="512"
-                    WIDTH="204"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="146 552 145 562 335 560 344 567 349 556 349 532 286 532 285 531 263 515 262 515 261 515 208 512 207 512 206 512 151 527 146 549"/></Shape>
+                    BASELINE="146 552 291 555" 
+                    HPOS="143"
+                    VPOS="507"
+                    WIDTH="147"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="145 532 145 551 143 556 187 565 188 565 231 560 240 566 241 566 242 566 243 566 288 559 290 554 288 520 181 507 160 507 158 507 157 507 156 507 145 532"/></Shape>
 	    <String CONTENT="Aucim."
-                    HPOS="145"
-                    VPOS="512"
-                    WIDTH="204"
-                    HEIGHT="55"></String>
+                    HPOS="143"
+                    VPOS="507"
+                    WIDTH="147"
+                    HEIGHT="59"></String>
           </TextLine>
 
           
@@ -525,6 +509,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="352"
+                   VPOS="1326"
+                   WIDTH="240"
+                   HEIGHT="66"
+                   ID="eSc_textblock_3ba04c38"
+                   TAGREFS="BT888">
+          <Shape><Polygon POINTS="592 1333 589 1392 357 1392 352 1326"/></Shape>
+          
           
           <TextLine ID="eSc_line_0129256e"
                     TAGREFS="LT323"
@@ -543,6 +537,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
