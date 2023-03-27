@@ -45,16 +45,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="570"
-                   VPOS="1344"
-                   WIDTH="3"
-                   HEIGHT="32"
-                   ID="eSc_textblock_b7c79093"
-                   >
-          <Shape><Polygon POINTS="570 1376 570 1344 573 1344 573 1376"/></Shape>
-          
-        </TextBlock>
-        
 
         
         <TextBlock ID="eSc_dummyblock_">
@@ -367,7 +357,7 @@
           
           
           <TextLine ID="eSc_line_42992c9e"
-                    
+                    TAGREFS="LT319"
                     BASELINE="72 844 850 858" 
                     HPOS="71"
                     VPOS="799"
