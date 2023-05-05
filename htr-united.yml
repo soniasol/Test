@@ -26,69 +26,69 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 2545
+  count: 2870
 - metric: files
-  count: 4
+  count: 5
 - metric: lines
-  count: 98
+  count: 111
 - metric: regions
-  count: 11
+  count: 13
 characters:
   mode: NFD
   members:
   - e
-  - t
   - u
   - s
-  - i
+  - t
   - a
+  - i
   - r
-  - n
   - o
+  - n
   - l
   - c
-  - .
   - m
+  - .
   - d
   - p
   - "\u0303"
-  - q
   - g
   - f
-  - C
+  - q
   - ','
-  - h
+  - C
   - y
-  - '-'
+  - h
   - P
   - b
+  - '-'
   - "\u204A"
   - z
+  - E
   - L
   - ;
-  - E
-  - A
-  - S
   - x
+  - A
   - D
-  - M
-  - I
+  - S
   - U
+  - M
   - N
+  - I
+  - Q
+  - G
+  - F
   - "\u0365"
   - R
+  - "\u036C"
   - v
   - "\xB6"
   - "\uA770"
   - H
-  - F
   - T
-  - G
-  - Q
   - O
   - B
   - J
   - Y
   - V
   - '1'
-  - "\u036C"
